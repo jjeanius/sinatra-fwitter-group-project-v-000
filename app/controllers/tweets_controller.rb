@@ -72,6 +72,7 @@ class TweetsController < ApplicationController
       redirect "/login"
     end
   end
+end
 
 
   helpers do
